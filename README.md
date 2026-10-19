@@ -15,6 +15,13 @@
 - **Agno**（42k⭐）：[修复非字符串名称的文本流读取](https://github.com/agno-agi/agno/pull/10779)
 - **LangChain4j**（13k⭐）：[修正 Guardrails 教程链接](https://github.com/langchain4j/langchain4j/pull/6579)
 
+### 🛠 技术栈
+
+- **AI Agent 开发**：Agent Harness、上下文工程、RAG、MCP、多 Agent 协作
+- **Python**：Agent 框架与工具链开发
+- **Java**：Spring Boot、MySQL、Redis
+- **全栈**：Vue、Docker、Nginx
+
 ### 📬 联系我
 
 - 邮箱：1259636180@qq.com
