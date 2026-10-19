@@ -14,3 +14,8 @@
 - **nanobot**（49k⭐）：[支持连接无工具能力的 MCP 服务](https://github.com/HKUDS/nanobot/pull/6019)、[MCP 资源与提示全量分页发现](https://github.com/HKUDS/nanobot/pull/6018)、[修复带 BOM 的首个 SSE 事件丢失](https://github.com/HKUDS/nanobot/pull/6050)
 - **Agno**（42k⭐）：[修复非字符串名称的文本流读取](https://github.com/agno-agi/agno/pull/10779)
 - **LangChain4j**（13k⭐）：[修正 Guardrails 教程链接](https://github.com/langchain4j/langchain4j/pull/6579)
+
+### 📬 联系我
+
+- 邮箱：1259636180@qq.com
+- 微信：zhangjunpei822729
