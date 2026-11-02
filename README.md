@@ -1,6 +1,6 @@
 ## Hi, I'm Zz 👋
 
-厦门大学通信工程本科在读，专注 AI Agent 开发，给 Dify、OpenHands、DeepSeek-Reasonix 等开源项目提交的 PR 已有 43 个被合并。
+厦门大学通信工程本科在读，专注 AI Agent 开发，给 Dify、OpenHands、DeepSeek-Reasonix 等开源项目提交的 PR 已有 44 个被合并。
 
 ### 🚀 项目
 
@@ -33,6 +33,7 @@
 - **DeepSeek-Reasonix**（36k⭐）：[保持 MCP 添加参数错误信息可读](https://github.com/esengine/DeepSeek-Reasonix/pull/14068)、[无需 sqlite3 即可导入 cc-switch 服务器](https://github.com/esengine/DeepSeek-Reasonix/pull/14069)
 - **agentscope**（35k⭐）：[日程筛选包含完整自然日](https://github.com/agentscope-ai/agentscope/pull/3504)
 - **Kafka**（34k⭐）：[修正命令行拼写错误](https://github.com/apache/kafka/pull/23937)
+- **WrenAI**（18k⭐）：[同步冷连接初始化](https://github.com/Canner/WrenAI/pull/2820)
 - **pr-agent**（13k⭐）：[仅对鉴权错误使用静态 AWS 兜底](https://github.com/The-PR-Agent/pr-agent/pull/4414)
 - **rayon**（13k⭐）：[修正 compatiblity 拼写错误](https://github.com/rayon-rs/rayon/pull/1329)
 - **LangChain4j**（13k⭐）：[修正 Guardrails 教程链接](https://github.com/langchain4j/langchain4j/pull/6579)
