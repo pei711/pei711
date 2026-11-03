@@ -1,6 +1,6 @@
 ## Hi, I'm Zz 👋
 
-厦门大学通信工程本科在读，专注 AI Agent 开发，给 Dify、OpenHands、DeepSeek-Reasonix 等开源项目提交的 PR 已有 46 个被合并。
+厦门大学通信工程本科在读，专注 AI Agent 开发，给 Dify、OpenHands、DeepSeek-Reasonix 等开源项目提交的 PR 已有 47 个被合并。
 
 ### 🚀 项目
 
@@ -27,7 +27,7 @@
 - **CowAgent**（48k⭐）：[工具调用后保留 steering 文本](https://github.com/zhayujie/CowAgent/pull/3843)
 - **SiYuan**（47k⭐）：[修正 Unraid 示例容器路径](https://github.com/siyuan-note/siyuan/pull/20872)
 - **Agno**（43k⭐）：[修复非字符串名称的文本流读取](https://github.com/agno-agi/agno/pull/10779)
-- **Dubbo**（42k⭐）：[修正 README 中不匹配的版本链接](https://github.com/apache/dubbo/pull/16539)
+- **Dubbo**（42k⭐）：[修正 README 中不匹配的版本链接](https://github.com/apache/dubbo/pull/16539)、[修正 StringConverter Javadoc 拼写错误](https://github.com/apache/dubbo/pull/16540)
 - **CopilotKit**（38k⭐）：[修复 Feature Viewer 示例失效链接](https://github.com/CopilotKit/CopilotKit/pull/7947)、[按 transcript 顺序配对复用的工具调用 ID](https://github.com/CopilotKit/CopilotKit/pull/7996)、[隔离 MCP 应用预览 origin](https://github.com/CopilotKit/CopilotKit/pull/7999)
 - **awesome-agent-skills**（37k⭐）：[删除失效的 marketing-mindset 收录](https://github.com/VoltAgent/awesome-agent-skills/pull/1242)
 - **DeepSeek-Reasonix**（36k⭐）：[保持 MCP 添加参数错误信息可读](https://github.com/esengine/DeepSeek-Reasonix/pull/14068)、[无需 sqlite3 即可导入 cc-switch 服务器](https://github.com/esengine/DeepSeek-Reasonix/pull/14069)
