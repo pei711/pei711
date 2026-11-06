@@ -1,6 +1,6 @@
 ## Hi, I'm Zz 👋
 
-厦门大学通信工程本科在读，专注 AI Agent 开发，给 Dify、OpenHands、DeepSeek-Reasonix 等开源项目提交的 PR 已有 47 个被合并。
+厦门大学通信工程本科在读，专注 AI Agent 开发，给 Dify、OpenHands、DeepSeek-Reasonix 等开源项目提交的 PR 已有 50 个被合并。
 
 ### 🚀 项目
 
@@ -33,7 +33,10 @@
 - **DeepSeek-Reasonix**（36k⭐）：[保持 MCP 添加参数错误信息可读](https://github.com/esengine/DeepSeek-Reasonix/pull/14068)、[无需 sqlite3 即可导入 cc-switch 服务器](https://github.com/esengine/DeepSeek-Reasonix/pull/14069)
 - **agentscope**（35k⭐）：[日程筛选包含完整自然日](https://github.com/agentscope-ai/agentscope/pull/3504)
 - **Kafka**（34k⭐）：[修正命令行拼写错误](https://github.com/apache/kafka/pull/23937)
+- **agentmemory**（30k⭐）：[reconcile 时校验 compose 守护进程身份](https://github.com/rohitg00/agentmemory/pull/1622)
 - **Envoy**（29k⭐）：[修正 README 中的主谓一致](https://github.com/envoyproxy/envoy/pull/48639)
+- **AI SDK**（28k⭐）：[在下一轮流式执行轮间压缩](https://github.com/vercel/ai/pull/24407)
+- **Haystack**（27k⭐）：[DocumentJoiner 拒绝 NaN/inf 权重](https://github.com/deepset-ai/haystack/pull/13410)
 - **WrenAI**（18k⭐）：[同步冷连接初始化](https://github.com/Canner/WrenAI/pull/2820)
 - **pr-agent**（14k⭐）：[仅对鉴权错误使用静态 AWS 兜底](https://github.com/The-PR-Agent/pr-agent/pull/4414)
 - **rayon**（13k⭐）：[修正 compatiblity 拼写错误](https://github.com/rayon-rs/rayon/pull/1329)
