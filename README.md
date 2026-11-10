@@ -1,6 +1,6 @@
 ## Hi, I'm Zz 👋
 
-厦门大学通信工程本科在读，专注 AI Agent 开发，给 Dify、OpenHands、DeepSeek-Reasonix 等开源项目提交的 PR 已有 59 个被合并。
+厦门大学通信工程本科在读，专注 AI Agent 开发，给 Dify、OpenHands、DeepSeek-Reasonix 等开源项目提交的 PR 已有 60 个被合并。
 
 ### 🚀 项目
 
