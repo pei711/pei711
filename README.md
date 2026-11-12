@@ -1,6 +1,6 @@
 ## Hi, I'm Zz 👋
 
-厦门大学通信工程本科在读，专注 AI Agent 开发，给 Dify、OpenHands、nanobot 等开源项目提交的 PR 已有 60 个被合并，其中 53 个在 10k star 以上的项目。
+厦门大学通信工程本科在读，专注 AI Agent 开发，给 Dify、OpenHands、nanobot 等开源项目提交的 PR 已有 61 个被合并，其中 54 个在 10k star 以上的项目。
 
 ### 🚀 项目
 
