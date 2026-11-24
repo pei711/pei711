@@ -10,15 +10,15 @@
 ### 🌟 开源贡献
 
 - **Dify**（162k⭐）：[保持重放时工具调用 ID 稳定](https://github.com/langgenius/dify/pull/43796)
-- **claude-mem**（119k⭐）：[搜索超时错误提示与日志记录](https://github.com/thedotmack/claude-mem/pull/4939)
+- **claude-mem**（119k⭐）：[收敛 Windows 启动器对 Bun 运行时的搜索范围](https://github.com/thedotmack/claude-mem/pull/4966)
+- **Agent-Reach**（114k⭐）：[在 Windows npm 垫片下完整保留命令参数](https://github.com/Panniantong/Agent-Reach/pull/860)
 - **OpenHands**（94k⭐）：[展示具体的 MCP 请求头校验错误](https://github.com/OpenHands/OpenHands/pull/17966)
 - **Headroom**（81k⭐）：[批量压缩中强制执行 role、mutable 与 cache zone 守卫](https://github.com/headroomlabs-ai/headroom/pull/4494)
+- **Cline**（72k⭐）：[不再把 LiteLLM 的旧版 max_tokens 当作输入预算](https://github.com/cline/cline/pull/15499)
 - **nanobot**（50k⭐）：[支持连接无工具能力的 MCP 服务](https://github.com/HKUDS/nanobot/pull/6019)
 - **CopilotKit**（39k⭐）：[按 transcript 顺序配对复用的工具调用 ID](https://github.com/CopilotKit/CopilotKit/pull/7996)
 - **GPT Researcher**（31k⭐）：[Bing 搜索应用 query_domains 并加固载荷解析](https://github.com/assafelovic/gpt-researcher/pull/2268)
 - **AI SDK**（28k⭐）：[在下一轮流式执行轮间压缩](https://github.com/vercel/ai/pull/24407)
-- **Haystack**（27k⭐）：[DocumentJoiner 拒绝 NaN/inf 权重](https://github.com/deepset-ai/haystack/pull/13410)
-- **Tornado**（22k⭐）：[允许 set_cookie() 的值包含空格](https://github.com/tornadoweb/tornado/pull/3842)
 
 ### 🛠 技术栈
 
