@@ -1,6 +1,6 @@
 ## Hi, I'm Zz 👋
 
-厦门大学通信工程本科在读，专注 AI Agent 开发，给 Dify、OpenHands、nanobot 等开源项目提交的 PR 已有 83 个被合并，其中 76 个在 10k star 以上的项目。
+厦门大学通信工程本科在读，专注 AI Agent 开发，给 Dify、OpenHands、nanobot 等开源项目提交的 PR 已有 85 个被合并，其中 78 个在 10k star 以上的项目。
 
 ### 🚀 项目
 
@@ -10,8 +10,8 @@
 ### 🌟 开源贡献
 
 - **Dify**（162k⭐）：[保持重放时工具调用 ID 稳定](https://github.com/langgenius/dify/pull/43796)
-- **claude-mem**（119k⭐）：[收敛 Windows 启动器对 Bun 运行时的搜索范围](https://github.com/thedotmack/claude-mem/pull/4966)
-- **Agent-Reach**（114k⭐）：[在 Windows npm 垫片下完整保留命令参数](https://github.com/Panniantong/Agent-Reach/pull/860)
+- **claude-mem**（120k⭐）：[收敛 Windows 启动器对 Bun 运行时的搜索范围](https://github.com/thedotmack/claude-mem/pull/4966)
+- **Agent-Reach**（115k⭐）：[在 Windows npm 垫片下完整保留命令参数](https://github.com/Panniantong/Agent-Reach/pull/860)
 - **OpenHands**（94k⭐）：[展示具体的 MCP 请求头校验错误](https://github.com/OpenHands/OpenHands/pull/17966)
 - **Headroom**（81k⭐）：[批量压缩中强制执行 role、mutable 与 cache zone 守卫](https://github.com/headroomlabs-ai/headroom/pull/4494)
 - **Cline**（72k⭐）：[不再把 LiteLLM 的旧版 max_tokens 当作输入预算](https://github.com/cline/cline/pull/15499)
